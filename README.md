@@ -25,4 +25,4 @@ The smart contract written in Solidity Programming language and deployed using F
   
   -Proper Use of Require
   -
-  
+  Used require statement in the function ( mintNFT ) to make sure no one can mint more than "maxSupply" NFTs.
