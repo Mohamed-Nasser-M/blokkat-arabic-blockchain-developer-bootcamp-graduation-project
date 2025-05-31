@@ -56,4 +56,5 @@ or simply run: make deploy
 # how to run the program
 
 In the Frontend bored-nasser-nft-marketplace Directory run: npm run dev
-then, http://localhost:3000/
+
+then, open http://localhost:3000/
