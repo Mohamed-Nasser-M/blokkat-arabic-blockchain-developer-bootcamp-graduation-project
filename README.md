@@ -51,6 +51,8 @@ PASSWORD: YOUR PRIVATE KEY PASSWORD
 
 To deploy: forge create BoredNasser --account YOUR_KEY_NAME --rpc-url $RPC_URL --password $PASSWORD --broadcast
 
+or simply run: make deploy
+
 # how to run the program
 
 In the Frontend bored-nasser-nft-marketplace Directory run: npm run dev
