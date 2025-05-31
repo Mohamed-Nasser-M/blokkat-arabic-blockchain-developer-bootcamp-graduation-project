@@ -42,6 +42,7 @@ In Backend foundry-project run: forge test
 
 * configuring the project:
   run: cast wallet import YOUR_KEY_NAME --interactive
+  
   then enter a password
 
 * and in .env file:
