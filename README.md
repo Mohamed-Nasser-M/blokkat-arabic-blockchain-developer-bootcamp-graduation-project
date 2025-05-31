@@ -8,4 +8,5 @@ The smart contract written in Solidity Programming language and deployed using F
 
 # Design patterns
   -Inheritance and Interfaces
+  
   -Access Control Design Patterns
