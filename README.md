@@ -35,3 +35,9 @@ The smart contract written in Solidity Programming language and deployed using F
   
 * Smart contract link on Scroll Sepolia testnet:
   https://sepolia.scrollscan.com/address/0x0bbE23735F406E98F11A7Be7d3ff4a1B2ed3AE6a
+
+# How to run tests
+
+# how to run the program
+
+In the Frontend bored-nasser-nft-marketplace Directory: npm run dev
