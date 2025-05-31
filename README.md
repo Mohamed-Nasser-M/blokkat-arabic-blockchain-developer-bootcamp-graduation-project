@@ -11,11 +11,16 @@ The smart contract written in Solidity Programming language and deployed using F
 
   -Inheritance and Interfaces
   -
-  Imported required openzeppelin libraries ( ERC721, ERC721URIStorage, Ownable )
+
+  
+  Imported required openzeppelin libraries ( ERC721, ERC721URIStorage, Ownable ).
   
   
   -Access Control Design Patterns
   -
+
+  
+  Restricting access to certain function ( setMaxSupply ) so only the owner of the smart contract can change the max supply cap.
   
 
 # Security best practices
