@@ -7,16 +7,23 @@ Marketplace to buy Bored Nasser fency NFTs through Scroll Sepolia Testnet, with 
 The smart contract written in Solidity Programming language and deployed using Foundry.
 
 # Design patterns
+
+
   -Inheritance and Interfaces
   -
   Imported required openzeppelin libraries ( ERC721, ERC721URIStorage, Ownable )
   
+  
   -Access Control Design Patterns
   -
+  
 
 # Security best practices
+
+
   -Using Specific Compiler Pragma
   -
+  
 
   -Proper Use of Require
   -
