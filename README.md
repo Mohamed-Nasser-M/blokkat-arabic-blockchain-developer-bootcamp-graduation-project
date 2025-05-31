@@ -49,7 +49,7 @@ In Backend foundry-project run: forge test
 PASSWORD: YOUR PRIVATE KEY PASSWORD
 
 
-To deploy: forge create BoredNasser --account YOUR_KEY_NAME --rpc-url $RPC_URL --password $PASSWORD
+To deploy: forge create BoredNasser --account YOUR_KEY_NAME --rpc-url $RPC_URL --password $PASSWORD --broadcast
 
 # how to run the program
 
