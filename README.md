@@ -37,7 +37,16 @@ The smart contract written in Solidity Programming language and deployed using F
   https://sepolia.scrollscan.com/address/0x0bbE23735F406E98F11A7Be7d3ff4a1B2ed3AE6a
 
 # How to run tests
+After installing Foundry,
+In Backend foundry-project run: forge test
+
+* configuring the project:
+  run: cast wallet import YOUR_KEY_NAME --interactive
+
+and in .env file:
+PASSWORD: YOUR PRIVATE KEY PASSWORD
 
 # how to run the program
 
-In the Frontend bored-nasser-nft-marketplace Directory: npm run dev
+In the Frontend bored-nasser-nft-marketplace Directory run: npm run dev
+then, http://localhost:3000/
