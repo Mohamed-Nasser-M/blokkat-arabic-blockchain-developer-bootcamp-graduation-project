@@ -26,3 +26,8 @@ The smart contract written in Solidity Programming language and deployed using F
   -Proper Use of Require
   -
   Used require statement in the function ( mintNFT ) to make sure no one can mint more than "maxSupply" NFTs.
+
+# Important links & addresses
+
+* Main smart contract address on Scroll Sepolia testnet:
+  0x0bbE23735F406E98F11A7Be7d3ff4a1B2ed3AE6a
