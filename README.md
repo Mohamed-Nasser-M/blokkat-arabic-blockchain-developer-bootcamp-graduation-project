@@ -58,3 +58,8 @@ or simply run: make deploy
 In the Frontend bored-nasser-nft-marketplace Directory run: npm run dev
 
 then, open http://localhost:3000/
+
+# Demo ( run through )
+
+Demo and run through the Dapp, running the frontend, connecting the wallet, selecting the network, writing to the contract, reading from the contract, and minting NFTs!
+LINK: https://drive.google.com/file/d/1IFk7OHq10JaUquduTwKA3F1S4w2TY64h/view?usp=sharing
