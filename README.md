@@ -8,5 +8,15 @@ The smart contract written in Solidity Programming language and deployed using F
 
 # Design patterns
   -Inheritance and Interfaces
+  -
+  Imported required openzeppelin libraries ( ERC721, ERC721URIStorage, Ownable )
   
   -Access Control Design Patterns
+  -
+
+# Security best practices
+  -Using Specific Compiler Pragma
+  -
+
+  -Proper Use of Require
+  -
