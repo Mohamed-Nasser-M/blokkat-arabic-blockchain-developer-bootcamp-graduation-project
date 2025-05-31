@@ -42,9 +42,13 @@ In Backend foundry-project run: forge test
 
 * configuring the project:
   run: cast wallet import YOUR_KEY_NAME --interactive
+  then enter a password
 
-and in .env file:
+* and in .env file:
 PASSWORD: YOUR PRIVATE KEY PASSWORD
+
+
+To deploy: forge create BoredNasser --account YOUR_KEY_NAME --rpc-url $RPC_URL --password $PASSWORD
 
 # how to run the program
 
